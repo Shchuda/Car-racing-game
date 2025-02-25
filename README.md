@@ -9,3 +9,5 @@ This project was inspired by Tech With Tim. Some images and parts of the code we
 ✔️ **Realistic Physics** – Smooth car handling and realistic collisions for an immersive experience
 
 ✔️ **Speedometer & HUD** – Display real-time speed and race stats
+
+![Demo](assets/Animation.gif)
