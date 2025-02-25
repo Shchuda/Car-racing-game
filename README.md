@@ -1,13 +1,11 @@
-# Car Racing Game 📚  
-*A simple and interactive app to help students track their learning progress and engage with peers*  
+# Car Racing Game 🏎️
+*A fast-paced multiplayer car racing game built using Python and Pygame*
 
 This project was inspired by Tech With Tim. Some images and parts of the code were adapted from his tutorial
 
-## 🚀 Features  
-✔️ **Student Accounts** – Create an account and manage your study sessions
+## 🚀 Features
+✔️ **Multiplayer Mode** – Race against friends in an exciting head-to-head competition
 
-✔️ **Class Management** – Add and organize your semester’s classes
+✔️ **Realistic Physics** – Smooth car handling and realistic collisions for an immersive experience
 
-✔️ **Weekly Topic Tracking** – Keep a record of topics learned each week 
-
-✔️ **Interactive Community** – Share feedback, comments, jokes, and summaries with fellow students
+✔️ **Speedometer & HUD** – Display real-time speed and race stats
