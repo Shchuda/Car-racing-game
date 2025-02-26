@@ -10,4 +10,4 @@ This project was inspired by Tech With Tim. Some images and parts of the code we
 
 ✔️ **Speedometer & HUD** – Display real-time speed and race stats
 
-<img src="assets/demo.gif" width="500px">
+
